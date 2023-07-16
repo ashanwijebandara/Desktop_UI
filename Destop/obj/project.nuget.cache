@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aIgK+y2cV2Mh5iBe2MjAY8UFGmhrsm2ujEbXMkfWYwAot1U8n4ifFFYBMCjozZv5QjJE44hFL1tZh8yO5k9Q2g==",
+  "dgSpecHash": "iA+JIF1qIIW2gXOUUwcK9I7OiawgjvubGhuGQYmlqZj2IUtNwWdTKrn3lb0UVNB3/Hm0jH5Lxuh9KSIC73FCzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wijeb\\source\\repos\\Destop\\Destop\\Destop.csproj",
+  "projectFilePath": "C:\\Users\\wijeb\\Documents\\GitHub\\Desktop_UI\\Destop\\Destop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wijeb\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512"
   ],

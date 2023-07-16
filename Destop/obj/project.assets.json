@@ -62,11 +62,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wijeb\\source\\repos\\Destop\\Destop\\Destop.csproj",
+      "projectUniqueName": "C:\\Users\\wijeb\\Documents\\GitHub\\Desktop_UI\\Destop\\Destop.csproj",
       "projectName": "Destop",
-      "projectPath": "C:\\Users\\wijeb\\source\\repos\\Destop\\Destop\\Destop.csproj",
+      "projectPath": "C:\\Users\\wijeb\\Documents\\GitHub\\Desktop_UI\\Destop\\Destop.csproj",
       "packagesPath": "C:\\Users\\wijeb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wijeb\\source\\repos\\Destop\\Destop\\obj\\",
+      "outputPath": "C:\\Users\\wijeb\\Documents\\GitHub\\Desktop_UI\\Destop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wijeb\\AppData\\Roaming\\NuGet\\NuGet.Config",
